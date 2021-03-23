@@ -5,7 +5,7 @@ import { address, abi } from "./contracts/vbucks";
 
 function App() {
   const web3Ref = useRef(null);
-  let [activeWallet, setActiveWallet] = useState("");
+  let [activeWallet, setActiveWallet] = useState(null);
 
   async function talkWithContract(e) {
     let web3 = web3Ref.current;
