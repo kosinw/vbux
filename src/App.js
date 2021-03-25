@@ -79,7 +79,7 @@ function App() {
           </div>
           <div className="flex-auto pl-6">
             <div className="flex flex-wrap items-baseline pl-52 -mt-6 -mr-6 -ml-52 py-6 pr-6 bg-black text-white">
-              <h1 className="w-full flex-none text-2xl leading-7 mb-2 font-bold">😩😩😩 Download Free V-Bucks!!?!</h1>
+              <h1 className="w-full flex-none text-2xl leading-7 mb-2 font-bold">😩👌💯😂😩🔥 <br /> Download Free V-Bucks!!?!</h1>
               <div className="text-2xl leading-7 font-bold">Valued at $69,420.00/token</div>
               <div className="text-sm font-medium ml-3"><sup>VBUX</sup></div>
             </div>
@@ -90,7 +90,7 @@ function App() {
               </div>
             </div>
             <p className="text-xs leading-5 text-gray-500">
-              Sending $19 fortnite cards through cryptocurrency. {" "}
+              Sending $19 fortnite cards through cryptocurrency.<br />
               <a href="https://kosinw.com" className="font-bold underline">Brought to you by @kosinw.</a>
             </p>
           </div>
